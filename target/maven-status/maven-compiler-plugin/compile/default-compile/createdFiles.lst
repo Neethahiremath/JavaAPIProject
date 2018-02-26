@@ -1,0 +1,17 @@
+com/sample/service/api/GreetingPersonResource.class
+com/sample/service/db/RoleDao.class
+com/sample/service/dto/GreetingResponse.class
+com/sample/service/dto/IdNamedEnumSerialiser.class
+com/sample/service/SampleApplication.class
+com/sample/service/dto/FreshDepot.class
+com/sample/service/db/RoleEntity.class
+com/sample/service/SampleConfiguration.class
+com/sample/service/dto/IdNamedEnum.class
+com/sample/service/dto/NamedEnum.class
+com/sample/service/api/test.class
+com/sample/service/SampleModule.class
+com/sample/service/SampleApplication$2.class
+com/sample/service/SampleApplication$1.class
+com/sample/service/service/RoleService.class
+com/sample/service/api/RoleResource.class
+com/sample/service/service/GreetingService.class
