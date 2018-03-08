@@ -2,38 +2,43 @@ package com.sample.service.JavaPrograms;
 
 public class Person {
 
-   private int age;
-     private String name;
-    private String address;
+   public int age;
+   public String name;
+   public String address;
 
-    public Person(int age, String name, String address) {
-        this.age = age;
-        this.name = name;
-        this.address = address;
+    public static PersonBuilder aPerson() {
+        return new PersonBuilder();
     }
 
-    public int getAge() {
-        return age;
-    }
+    public static final class PersonBuilder {
+        private int age;
+        private String name;
+        private String address;
 
-    public void setAge(int age) {
-        this.age = age;
-    }
+        private PersonBuilder() {
+        }
 
-    public String getName() {
-        return name;
-    }
+        public PersonBuilder age(int age) {
+            this.age = age;
+            return this;
+        }
 
-    public void setName(String name) {
-        this.name = name;
-    }
+        public PersonBuilder name(String name) {
+            this.name = name;
+            return this;
+        }
 
-    public String getAddress() {
-        return address;
-    }
+        public PersonBuilder address(String address) {
+            this.address = address;
+            return this;
+        }
 
-    public void setAddress(String address) {
-        this.address = address;
+        public Person build() {
+            Person person = new Person();
+            person.name = this.name;
+            person.age = this.age;
+            person.address = this.address;
+            return person;
+        }
     }
-
 }

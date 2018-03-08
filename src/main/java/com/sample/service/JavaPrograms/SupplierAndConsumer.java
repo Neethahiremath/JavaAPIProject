@@ -9,10 +9,10 @@ public class SupplierAndConsumer {
     public static void main(String[] args) {
 
         Supplier<Person> personSupplier = ()-> {
-            return new Person(12,"Neetha","Ambedkar Nagar");
+            return Person.aPerson().age(9).build();
         };
 
-        System.out.println(personSupplier.get().getAge());
+        System.out.println(personSupplier.get());
 
         Consumer<String> stringConsumer = (arg)-> {
             System.out.println(arg + "Ok");

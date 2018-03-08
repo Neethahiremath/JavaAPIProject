@@ -1,13 +1,7 @@
 package com.sample.service;
 
 import com.hubspot.dropwizard.guice.GuiceBundle;
-import com.sample.service.api.GreetingPersonResource;
-import com.sample.service.api.RoleResource;
-import com.sample.service.db.RoleDao;
-import com.sample.service.db.RoleEntity;
-import com.sample.service.service.GreetingService;
 import io.dropwizard.Application;
-import io.dropwizard.db.DataSourceFactory;
 import io.dropwizard.db.PooledDataSourceFactory;
 import io.dropwizard.hibernate.HibernateBundle;
 import io.dropwizard.hibernate.ScanningHibernateBundle;

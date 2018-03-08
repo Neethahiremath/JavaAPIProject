@@ -20,13 +20,15 @@ public class ReadFromTextFile {
     public static void main(String[] args) {
 
         try {
-     /*       List<String> stringList = Files
+           List<String> stringList = Files
                     .lines(Paths.get("/vt65/Backup/MyFirstProjectDemo/src/main/resources/file.txt"))
                     .map(words -> words.split(" "))
                     .flatMap(Arrays::stream)
                     .collect(Collectors.toList());
-*/
-            BufferedReader bf = new BufferedReader(new FileReader("/vt65/Backup/MyFirstProjectDemo/src/main/resources/file.txt"));
+
+            BufferedReader bf = new BufferedReader(
+                    new FileReader("/vt65/Backup/MyFirstProjectDemo/src/main/resources/file.txt"));
+
             String line = bf.readLine();
             StringBuilder sb = new StringBuilder();
             while (line!=null)
@@ -37,7 +39,7 @@ public class ReadFromTextFile {
                 line=bf.readLine();
             }
 
-          //  System.out.println(stringList);
+          // System.out.println(stringList);
 
            /* long palindromeCount = stringList.stream()
                     .filter(ReadFromTextFile::isPalindrom)
