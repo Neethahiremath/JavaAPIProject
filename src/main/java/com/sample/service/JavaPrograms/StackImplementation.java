@@ -1,6 +1,5 @@
 package com.sample.service.JavaPrograms;
 
-import java.util.Arrays;
 import java.util.Stack;
 
 public class StackImplementation<T> {
@@ -42,7 +41,8 @@ public class StackImplementation<T> {
         //Stack in Java
         Stack<String> stringStack = new Stack<>();
 
-        stringStack.push("1");
+        String push = stringStack.push("1");
+        System.out.println(push);
         stringStack.push("2");
 
         System.out.println(stringStack.pop());

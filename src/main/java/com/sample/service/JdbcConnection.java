@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 public class JdbcConnection {
 
-    static final String jdbcDriverName = "com.mysql.jdbc.Driver";
+   // static final String jdbcDriverName = "com.mysql.jdbc.Driver";
    static final String url = "jdbc:mysql://localhost:3306/FirstAPIDB";
     static final String username= "root";
    static final   String password="password";
@@ -28,7 +28,6 @@ public class JdbcConnection {
 
             System.out.println(id);
             System.out.println(name);
-
 
         }
     }
