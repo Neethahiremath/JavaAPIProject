@@ -1,0 +1,11 @@
+
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíýÿÿÿÿ8þ×ï¡å-
+ksquid:UselessImportCheck";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8ãÍë¡å-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÊù¯úÿÿÿÿ
+jsquid:UselessImportCheck":Remove this unused import 'java.util.concurrent.Executor'.(÷ý¶Œúÿÿÿÿ8ãÍë¡å-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ÏÞßúýÿÿÿÿ8þ×ï¡å-
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(òòþâ8°¸æ å-
+Š squid:ForLoopCounterChangedCheck$"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8Æ‰‚ å-
+Esquid:S1481."'Remove this unused "ex" local variable.(¼ÜÌ¢8Üì¥¢å-

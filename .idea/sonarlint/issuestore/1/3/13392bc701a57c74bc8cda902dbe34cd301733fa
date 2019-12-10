@@ -1,0 +1,12 @@
+
+isquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(Ê€˜Ä8ì¼¬³í-
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(úùØ‚üÿÿÿÿ8‹ñ¾³í-
+Fsquid:S1481L"(Remove this unused "val" local variable.(’ÄìŸ8ÑÁ³í-
+Osquid:S1612Z",Replace this lambda with a method reference.(úùØ‚üÿÿÿÿ8‹ñ¾³í-
+isquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(£ì®8Þ™ª³í-
+nsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(Þ”öùÿÿÿÿ8Þ™ª³í-
+Jsquid:S1602D",Remove useless curly braces around statement(Á±ÙÚ8™û»³í-
+Usquid:S1854L"7Remove this useless assignment to local variable "val".(’ÄìŸ8ÑÁ³í-
+Nsquid:S1481<"+Remove this unused "result" local variable.(»Ðõ¨ùÿÿÿÿ8æÉÒ³í-
+]squid:S1854<":Remove this useless assignment to local variable "result".(»Ðõ¨ùÿÿÿÿ8æÉÒ³í-

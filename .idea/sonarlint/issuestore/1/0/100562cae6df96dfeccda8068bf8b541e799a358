@@ -1,0 +1,6 @@
+
+¥squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(İ—ÈÊ8× Ò€æ-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ÉÙËûÿÿÿÿ8Ë¸â€æ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÊù¯úÿÿÿÿ
+_squid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8»³”æ-

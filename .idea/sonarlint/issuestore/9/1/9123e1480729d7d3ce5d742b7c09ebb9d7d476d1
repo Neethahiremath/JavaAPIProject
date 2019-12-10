@@ -1,0 +1,24 @@
+
+usquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.LinkedBlockingQueue'.(ŸØšüÿÿÿÿ8¹Îÿæ-
+\squid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8ä•¸ÿæ-
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¶ç€ç-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ8¹Îÿæ-
+Ssquid:UselessImportCheck"/Remove this unused import 'java.nio.file.Path'.(×²êÂ
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡æ¡Šúÿÿÿÿ8¹Îÿæ-
+asquid:UselessImportCheck
+"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8Ïâ—€ç-
+dsquid:UselessImportCheck"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑşøÿÿÿÿ8·ğÍÿæ-
+Msquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¶ç€ç-
+¦%squid:RedundantThrowsDeclarationCheck"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(‡æ¡Šúÿÿÿÿ8¹Îÿæ-
+T
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¯Ôßˆûÿÿÿÿ
+Wsquid:UselessImportCheck",Remove this unused import 'java.util.Queue'.(Äá™ô8ä•¸ÿæ-
+O
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¿½ğ
+\squid:UselessImportCheck",Remove this unused import 'java.util.Deque'.(³Ã¯¥şÿÿÿÿ8æä¸ÿæ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÊù¯úÿÿÿÿ
+Zsquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8´Æüÿæ-
+Isquid:S1481'"&Remove this unused "n" local variable.(ş§øÿÿÿÿ8¸óÏ€ç-
+Xsquid:S1854'"5Remove this useless assignment to local variable "n".(ş§øÿÿÿÿ8¸óÏ€ç-

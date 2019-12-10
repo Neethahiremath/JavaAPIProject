@@ -1,0 +1,5 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÊù¯úÿÿÿÿ
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8âÄãÙä-
+Lsquid:S1481K")Remove this unused "node" local variable.(ôÀ¤ªúÿÿÿÿ8Ûƒ’¹ä-
+[squid:S1854K"8Remove this useless assignment to local variable "node".(ôÀ¤ªúÿÿÿÿ8Ûƒ’¹ä-

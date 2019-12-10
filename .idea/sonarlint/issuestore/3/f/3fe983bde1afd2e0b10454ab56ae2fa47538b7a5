@@ -1,0 +1,15 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(×ş„ 
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶‚çûÿÿÿÿ
+0squid:S2438""runnable" is a "Thread".(£¿‹‰
+5squid:S2438""runnable" is a "Thread".(‘¢°€ıÿÿÿÿ
+Vsquid:S1481#"?Remove this unused "objectCreationWithInstance" local variable.(¹Ìí«
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+esquid:S1854#"NRemove this useless assignment to local variable "objectCreationWithInstance".(¹Ìí«
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

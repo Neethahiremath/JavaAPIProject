@@ -1,0 +1,11 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊıÊ­
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ùĞ™Ø
+asquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8Êª•ç-
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßÀó·
+\squid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8Œ×•ç-
+:squid:S1148"#Use a logger to log this exception.(ùĞ™Ø
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¿Š­•ç-
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¿Š­•ç-

@@ -1,0 +1,5 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÊù¯úÿÿÿÿ
+lsquid:S1450"URemove the "number" field and declare it as a local variable in the relevant methods.(òù´Ê
+T
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ºïÐ‘ýÿÿÿÿ

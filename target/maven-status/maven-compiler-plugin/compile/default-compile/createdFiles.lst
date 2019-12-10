@@ -24,8 +24,8 @@ com/sample/service/SampleApplication$1.class
 com/sample/service/JavaPrograms/TryOwnFunctionalInterface.class
 com/sample/service/JavaPrograms/StackImplementation.class
 com/sample/service/dto/GreetingResponse.class
-com/sample/service/JavaPrograms/HashMapImplementation$Holder.class
 com/sample/service/JavaPrograms/SupplierAndConsumer.class
+com/sample/service/JavaPrograms/HashMapImplementation$Holder.class
 com/sample/service/dto/IdNamedEnum.class
 com/sample/service/JavaPrograms/NewFeatures.class
 com/sample/service/JavaPrograms/DateTimeAPIJava8.class

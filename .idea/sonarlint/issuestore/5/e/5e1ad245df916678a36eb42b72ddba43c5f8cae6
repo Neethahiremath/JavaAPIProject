@@ -1,0 +1,31 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+Hsquid:S3457@"%String contains no format specifiers.(¼ËŒäúÿÿÿÿ8Úñ²©-
+U
+squid:S1061"9Replace this use of System.out or System.err by a logger.(«íße8Å¥ÙŒ©-
+Ksquid:S1611&"/Remove the parentheses around the "s" parameter(Ê¿ù‹ùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÖ¥É
+fsquid:S22597"HA "NullPointerException" could be thrown; "stringList" is nullable here.(ëÛ¦€8ËÌéŒ©-
+Csquid:S3457<"%String contains no format specifiers.(¤ò¹°8Ç»çŒ©-
+gsquid:S2583;"DChange this condition so that it does not always evaluate to "false"(Îáğ³ÿÿÿÿÿ8È—©-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( Ù‚¼ÿÿÿÿÿ
+Esquid:S1481)")Remove this unused "test" local variable.(²™³øÿÿÿÿ
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(ºîÆ‘úÿÿÿÿ
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(¤ò¹°8Ç»çŒ©-
+fsquid:S2259?"HA "NullPointerException" could be thrown; "stringList" is nullable here.(³ïË¹8Úñ²©-
+Bsquid:S34571"%String contains no format specifiers.(«íße8Å¥ÙŒ©-
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆÁä‘
+isquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(Âµš8È—©-
+Tsquid:S1854)"8Remove this useless assignment to local variable "test".(²™³øÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÊù¯úÿÿÿÿ
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(©¢Ê¢üÿÿÿÿ
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ùƒÊüÿÿÿÿ8†æŒ©-
+Hsquid:S34578"%String contains no format specifiers.(ùƒÊüÿÿÿÿ8†æŒ©-
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(¼ËŒäúÿÿÿÿ8Úñ²©-
+nsquid:S4276&"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(Ê¿ù‹ùÿÿÿÿ

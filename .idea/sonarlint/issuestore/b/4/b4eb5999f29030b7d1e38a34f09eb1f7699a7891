@@ -1,0 +1,32 @@
+
+Vsquid:S1854":Remove this useless assignment to local variable "values".(Õóş¨8Â¼¬²¾-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì„¶£ùÿÿÿÿ8áÄü†Ä-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶­†Íşÿÿÿÿ8áÄü†Ä-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ÎÔ›ıÿÿÿÿ8áÄü†Ä-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷¿ıÒúÿÿÿÿ8ˆˆóŒÄ-
+Wsquid:UselessImportCheck"/Remove this unused import 'java.sql.Timestamp'.(èò½+8áÄü†Ä-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô„¢øÿÿÿÿ8áÄü†Ä-
+Gsquid:S1481"+Remove this unused "values" local variable.(Õóş¨8Â¼¬²¾-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Â¹¸›şÿÿÿÿ8áÄü†Ä-
+Zsquid:UselessImportCheck"1Remove this unused import 'oracle.sql.TIMESTAMP'.(óŒƒÕ8áÄü†Ä-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÙ¶İ8áÄü†Ä-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£¸Ù·úÿÿÿÿ8Â¼¬²¾-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(üÇúô8áÄü†Ä-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ß8áÄü†Ä-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤¹«8áÄü†Ä-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅçìÙûÿÿÿÿ8áÄü†Ä-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(„Ğô±8Â¼¬²¾-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(±á™¦ÿÿÿÿÿ8«•õŒÄ-

@@ -1,12 +1,7 @@
 package com.sample.service.JavaPrograms;
 
-import io.swagger.models.auth.In;
-import oracle.jdbc.proxy.annotation.Pre;
-
-import javax.xml.ws.Holder;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Predicate;
