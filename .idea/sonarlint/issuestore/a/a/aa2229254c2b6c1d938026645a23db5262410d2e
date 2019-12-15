@@ -1,17 +1,19 @@
 
-Fsquid:S2440"#Remove this instantiation of "bvb".(¸‰ÉÒùÿÿÿÿ8¨èÑè-
+Asquid:S3457	"%String contains no format specifiers.(¹®ŞÄüÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÊù¯úÿÿÿÿ
+Dsquid:S1481 "(Remove this unused "obj" local variable.(Û„°äüÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(²•É›
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖÌ„äıÿÿÿÿ
 T
 squid:S106	"9Replace this use of System.out or System.err by a logger.(¹®ŞÄüÿÿÿÿ
-esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıÇìÅ
-jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖÌ„äıÿÿÿÿ
-<squid:S3457"%String contains no format specifiers.(²•É›
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(€–å
 Asquid:S2440"#Remove this instantiation of "bvb".(Øúè€8«¹ğ¯ê-
-Dsquid:S1481"(Remove this unused "obj" local variable.(Û„°äüÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÊù¯úÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(²•É›
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(€–å
+Fsquid:S2440"#Remove this instantiation of "bvb".(¸‰ÉÒùÿÿÿÿ8¨èÑè-
+Ssquid:S1854 "7Remove this useless assignment to local variable "obj".(Û„°äüÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıÇìÅ
 Asquid:S2440"#Remove this instantiation of "bvb".(Øúè€8…æğ¯ê-
-Ssquid:S1854"7Remove this useless assignment to local variable "obj".(Û„°äüÿÿÿÿ
-Asquid:S3457	"%String contains no format specifiers.(¹®ŞÄüÿÿÿÿ
+<squid:S3457"%String contains no format specifiers.(²•É›
+Fsquid:S2440"#Remove this instantiation of "bvb".(¸‰ÉÒùÿÿÿÿ8ğ‚ŒŞï-
+Rsquid:S2387"/"obj3" is the name of a field in "GuessOutput".(¸‰ÉÒùÿÿÿÿ8ğ‚ŒŞï-

@@ -2,37 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7d7cd3c-8d5d-4fe9-8983-93b288145adf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_2_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/Reflections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/SubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/ZigZagArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/segregate0And1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/rxjavaimp/TaskCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine/model/CoffeeItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine/model/ItemDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine/model/service/CoffeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine/model/service/ItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44bbbc0ecd669af1c7964e5481ce7d54527f670b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44bbbc0ecd669af1c7964e5481ce7d54527f670b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e1ad245df916678a36eb42b72ddba43c5f8cae6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e1ad245df916678a36eb42b72ddba43c5f8cae6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa2229254c2b6c1d938026645a23db5262410d2e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa2229254c2b6c1d938026645a23db5262410d2e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5f24026a8bd12fd99c795ca6a2ad433c2464dfc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5f24026a8bd12fd99c795ca6a2ad433c2464dfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstProjectDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstProjectDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/FileSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/FileSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/FindDuplicateNumbersAndCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/FindDuplicateNumbersAndCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/Java8Filters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/Java8Filters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/MissingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/MissingElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/MultiDimentionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/MultiDimentionalArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/RotationOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/RotationOfString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/SpecialCharactersInSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/SpecialCharactersInSentence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/WorkerThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/api/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/api/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/FileSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/FileSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/Java8Filters$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/Java8Filters$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/Java8Filters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/Java8Filters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/MyHashMap$Container.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/MyHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/WorkerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/WorkerThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/api/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/api/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/GuessOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/GuessOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/OverLoading.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/OverLoading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/abc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/bvb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/bvb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/test1.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +61,8 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="file&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/FileReader.java&#10;Suppl&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java&#10;zoneddateti&#9;PSI&#9;JAVA://java.time.ZonedDateTime&#10;Coun&#9;FILE&#9;file:///vt65/Backup/MyFirstProjectDemo/src/main/java/com/sample/service/JavaPrograms/Country.java&#10;pom&#9;FILE&#9;file:///vt65/Backup/MyFirstProjectDemo/pom.xml" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/sample/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine/model" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -85,6 +70,9 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/config" />
+    </key>
     <key name="CreateBuilderDialog.RecentsKey">
       <recent name="com.sample.service.JavaPrograms" />
     </key>
@@ -96,8 +84,10 @@
       <recent name="com.sample.service.service" />
       <recent name="com.sample.service.api" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/config" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine/model" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -112,23 +102,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OverLoading">
+  <component name="RunManager" selected="Application.ShortestSubStringLength">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.service.interview.Anagram" />
-      <module name="MyFirstProjectDemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.service.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,8 +120,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverLoading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.service.JavaPrograms.OverLoading" />
+    <configuration name="ShortestSubStringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.service.JavaPrograms.ShortestSubStringLength" />
+      <module name="MyFirstProjectDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.service.JavaPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.service.JavaPrograms.Trie" />
       <module name="MyFirstProjectDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -178,13 +168,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.service.api.test" />
+    <configuration name="guss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.service.JavaPrograms.guss" />
       <module name="MyFirstProjectDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sample.service.api.*" />
+          <option name="PATTERN" value="com.sample.service.JavaPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,19 +223,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyProject" />
-      <item itemvalue="Application.Anagram" />
       <item itemvalue="Application.test1" />
+      <item itemvalue="Application.Trie" />
+      <item itemvalue="Application.guss" />
       <item itemvalue="Application.bvb" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.OverLoading" />
+      <item itemvalue="Application.ShortestSubStringLength" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OverLoading" />
+        <item itemvalue="Application.ShortestSubStringLength" />
         <item itemvalue="Application.test1" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.bvb" />
+        <item itemvalue="Application.guss" />
+        <item itemvalue="Application.Trie" />
       </list>
     </recent_temporary>
   </component>
@@ -769,27 +759,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="211" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java</url>
-          <line>55</line>
+          <line>53</line>
           <option name="timeStamp" value="212" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java</url>
-          <line>16</line>
+          <line>18</line>
           <option name="timeStamp" value="213" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java</url>
-          <line>40</line>
+          <line>41</line>
           <option name="timeStamp" value="217" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java</url>
-          <line>33</line>
+          <line>34</line>
           <option name="timeStamp" value="218" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -799,13 +784,48 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java</url>
-          <line>35</line>
+          <line>36</line>
           <option name="timeStamp" value="221" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java</url>
-          <line>36</line>
+          <line>37</line>
           <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/Trie.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/Trie.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/ShortestSubStringLength.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/ShortestSubStringLength.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/ShortestSubStringLength.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/ShortestSubStringLength.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="232" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/ZigZagArray.java</url>

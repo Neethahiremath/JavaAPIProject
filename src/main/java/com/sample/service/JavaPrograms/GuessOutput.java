@@ -14,6 +14,7 @@ public class GuessOutput {
 class abc extends GuessOutput{
 
   static bvb obj = new bvb(10);
+  bvb obj3 = new bvb(9);
 
   abc()
   {

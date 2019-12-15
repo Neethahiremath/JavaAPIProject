@@ -1,6 +1,9 @@
 
-qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨˜¶ÿÿÿÿÿ8¥ï¼ºê-
-Fsquid:S1125)"(Remove the literal "true" boolean value.(¶Âİ›8‡×£µî-
+Vsquid:S11977"8Move the array designator from the variable to the type.(Ïöç­8©”ØÉï-
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÊù¯úÿÿÿÿ
 usquid:S3776
 "RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(“®öÃşÿÿÿÿ8‡×£µî-
+Ksquid:S1125&"(Remove the literal "true" boolean value.(¢Ï´Óıÿÿÿÿ8‡×£µî-
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(‹œâèûÿÿÿÿ8²¾ŞÉï-
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨˜¶ÿÿÿÿÿ8¥ï¼ºê-
