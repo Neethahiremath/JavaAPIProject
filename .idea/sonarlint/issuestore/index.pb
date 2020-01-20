@@ -96,3 +96,15 @@ u
 Esrc/main/java/com/sample/service/coffeemachine/model/CoffeeItems.java,d/9/d9e10e55256f121ea622d264b1d5351d19527b8d
 w
 Gsrc/main/java/com/sample/service/coffeemachine/model/CoffeeWending.java,7/7/7714e5f892b35fe9bbbf7421901ace4511b3fda1
+z
+Jsrc/main/java/com/sample/service/JavaPrograms/ShortestSubStringLength.java,7/a/7a37d8d702803e9716b992852084fdf851d14ce4
+
+Qsrc/main/java/com/sample/service/hackerRankQuestions/ShortestSubStringLength.java,e/1/e1ccd1045eee7e64deccf449c4890a8d17b85655
+s
+Csrc/main/java/com/sample/service/hackerRankQuestions/TurnStile.java,6/1/611f93421e9647336bebf8fa0f18411107f21a6f
+n
+>src/main/java/com/sample/service/JavaPrograms/CountAndSay.java,c/f/cfe00f7b3cc574570724ba463c2ace7e06b95a4a
+f
+6src/main/java/com/sample/service/JavaPrograms/XYZ.java,2/9/29b6555308f0d43b9661db14ba79e84ed01dcf1a
+r
+Bsrc/main/java/com/sample/service/JavaPrograms/CollectionsJava.java,f/0/f051ca4dd17f9e635d2ebbcce858c07ec8b51780

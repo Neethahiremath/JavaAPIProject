@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7d7cd3c-8d5d-4fe9-8983-93b288145adf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine/model/CoffeeItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine/model/ItemDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine/model/service/CoffeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine/model/service/ItemService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44bbbc0ecd669af1c7964e5481ce7d54527f670b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44bbbc0ecd669af1c7964e5481ce7d54527f670b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e1ad245df916678a36eb42b72ddba43c5f8cae6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e1ad245df916678a36eb42b72ddba43c5f8cae6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa2229254c2b6c1d938026645a23db5262410d2e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa2229254c2b6c1d938026645a23db5262410d2e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5f24026a8bd12fd99c795ca6a2ad433c2464dfc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5f24026a8bd12fd99c795ca6a2ad433c2464dfc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7eaa5041655de46563111a659da23013f388b018" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7eaa5041655de46563111a659da23013f388b018" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dab18a12aeeeef46005093ffa00ba9b018068c54" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dab18a12aeeeef46005093ffa00ba9b018068c54" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/GuessOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/GuessOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/OverLoading.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/OverLoading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/abc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/bvb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/bvb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/service/JavaPrograms/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/CollectionTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +52,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="file&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/FileReader.java&#10;Suppl&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java&#10;zoneddateti&#9;PSI&#9;JAVA://java.time.ZonedDateTime&#10;Coun&#9;FILE&#9;file:///vt65/Backup/MyFirstProjectDemo/src/main/java/com/sample/service/JavaPrograms/Country.java&#10;pom&#9;FILE&#9;file:///vt65/Backup/MyFirstProjectDemo/pom.xml" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/sample/service" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/sample/service/coffeemachine/model" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -102,9 +93,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShortestSubStringLength">
+  <component name="RunManager" selected="Application.VMain">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.service.JavaPrograms.CountAndSay" />
+      <module name="MyFirstProjectDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.service.JavaPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,8 +139,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.service.JavaPrograms.Trie" />
+    <configuration name="VMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.service.JavaPrograms.VMain" />
+      <module name="MyFirstProjectDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sample.service.JavaPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XYZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.service.JavaPrograms.XYZ" />
       <module name="MyFirstProjectDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -150,34 +169,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bvb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.service.JavaPrograms.bvb" />
-      <module name="MyFirstProjectDemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.service.JavaPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="guss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.service.JavaPrograms.guss" />
-      <module name="MyFirstProjectDemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sample.service.JavaPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -224,18 +215,18 @@
     <list>
       <item itemvalue="Application.MyProject" />
       <item itemvalue="Application.test1" />
-      <item itemvalue="Application.Trie" />
-      <item itemvalue="Application.guss" />
-      <item itemvalue="Application.bvb" />
       <item itemvalue="Application.ShortestSubStringLength" />
+      <item itemvalue="Application.CountAndSay" />
+      <item itemvalue="Application.XYZ" />
+      <item itemvalue="Application.VMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VMain" />
+        <item itemvalue="Application.XYZ" />
+        <item itemvalue="Application.CountAndSay" />
         <item itemvalue="Application.ShortestSubStringLength" />
         <item itemvalue="Application.test1" />
-        <item itemvalue="Application.bvb" />
-        <item itemvalue="Application.guss" />
-        <item itemvalue="Application.Trie" />
       </list>
     </recent_temporary>
   </component>
@@ -827,6 +818,16 @@
           <line>18</line>
           <option name="timeStamp" value="232" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/CountAndSay.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/XYZ.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/sample/service/JavaPrograms/ZigZagArray.java</url>
           <line>9</line>
@@ -839,6 +840,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyFirstProjectDemo$XYZ.ic" NAME="XYZ Coverage Results" MODIFIED="1577172222512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sample.service.JavaPrograms.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/MyFirstProjectDemo$AddTwoSinglyLinkedList.ic" NAME="AddTwoSinglyLinkedList Coverage Results" MODIFIED="1573203998253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.sample.service.JavaPrograms.*</FILTER>
     </SUITE>
